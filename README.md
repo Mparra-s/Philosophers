@@ -62,7 +62,7 @@ Example:
 
 <br/>
 
-## Files Structure
+## File Structure
 The project is composed of the following files:
 - philo.c
 - philo_checks.c
