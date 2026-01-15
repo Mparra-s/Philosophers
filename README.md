@@ -65,8 +65,13 @@ Example:
 ## Files Structure
 The project is composed of the following files:
 - philo.c
-- init.c
-- routine.c
+- philo_checks.c
+- philo_eats.c
+- philo_management.c
+- philo_mutex.c
+- philo_sleep.c
+- philo_time.c
+- print_helpers.c
 - utils.c
 - philo.h
 
